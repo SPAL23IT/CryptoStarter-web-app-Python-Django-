@@ -1,6 +1,6 @@
-# 🪙 CryptoApp – Django Web App for Cryptocurrency News & Blockchain Data
+# CryptoStarter – Django Web App for Cryptocurrency News & Blockchain Data
 
-**CryptoApp** is a **Django-based web application** that aggregates the latest **cryptocurrency and blockchain data and news** from external sources.  
+**CryptoStarter** is a **Django-based web application** that aggregates the latest **cryptocurrency and blockchain data and news** from external sources.  
 It uses the `requests` library to fetch live data and stores selected information in a **Django database** for easy management via the built-in admin panel.
 
 
